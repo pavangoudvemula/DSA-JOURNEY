@@ -1,7 +1,9 @@
 # DSA-JOURNEY
 MY DAILY DSA PROBLEM-SOLVING JOURNEY
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/pavangoudvemula" alt="Pavan's LeetCode Stats" />
-</p>
+pie title DSA Problem Solving Distribution
+    "Arrays" : 1
+    "Hashing & Strings" : 0
+    "Binary Search & Math" : 5
+    "Recursion & Subsets" : 0
 
 
