@@ -1,4 +1,5 @@
 // LEETCODE PROBLEM: 567  Permutation in String
+
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int [] freq=new int[123];
