@@ -1,6 +1,6 @@
 // Queries about less or equal elements codeforces problem 600 B
 // approach : Binary search(upper bound )
-// Time Complexity: O(N*logN)
+// Time Complexity: O(N*logn)
 import java.util.*;
 public class Main{
     public static void main(String[] args){
